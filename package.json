@@ -1,0 +1,22 @@
+{
+  "name": "react-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "koa": "^2.15.3"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.9"
+  },
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version",
+    "publish": "changeset publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
