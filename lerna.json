@@ -1,7 +1,6 @@
 {
   "version": "independent",
   "npmClient": "pnpm",
-  "useWorkspaces": true,
   "command": {
     "publish": {
       "conventionalCommits": true,
@@ -18,7 +17,6 @@
       "conventionalCommits": true,
       "message": "chore(release): version packages",
       "changelogPreset": "conventional-changelog-conventionalcommits",
-      "createRelease": "github",
       "push": true
     },
     "bootstrap": {
