@@ -1,6 +1,6 @@
 {
   "name": "@we/ui",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@we/hooks": "1.6.2"
+    "@we/hooks": "workspace:*"
   },
   "gitHead": "f312d9073f62b0ee726bd45dfd8d994732dd22cb"
 }

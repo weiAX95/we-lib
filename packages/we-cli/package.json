@@ -1,6 +1,6 @@
 {
   "name": "@we/cli",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
