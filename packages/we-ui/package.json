@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@we/hooks": "workspace:^"
-  }
+    "@we/hooks": "^1.6.0"
+  },
+  "gitHead": "b77d3c4e7256d69ebd7f22ec6eaa40ed29675b01"
 }
