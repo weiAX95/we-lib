@@ -20,7 +20,9 @@
     },
     "bootstrap": {
       "hoist": true,
-      "npmClientArgs": []
+      "npmClientArgs": [
+        "--registry=https://registry.npmjs.org/"
+      ]
     },
     "add": {
       "exact": true
