@@ -3,15 +3,10 @@
   "npmClient": "pnpm",
   "command": {
     "publish": {
-      "conventionalCommits": true,
-      "message": "chore(release): publish packages",
       "registry": "http://localhost:4873",
-      "access": "public",
-      "allowBranch": [
-        "main",
-        "master"
-      ],
-      "yes": true
+      "ignoreScripts": true,
+      "yes": true,
+      "access": "public"
     },
     "version": {
       "conventionalCommits": true,
