@@ -16,7 +16,6 @@
     "version": {
       "conventionalCommits": true,
       "message": "chore(release): version packages",
-      "changelogPreset": "conventional-changelog-conventionalcommits",
       "push": true
     },
     "bootstrap": {
@@ -27,7 +26,6 @@
       "exact": true
     }
   },
-  "changelogPreset": "conventional-changelog-conventionalcommits",
   "ignoreChanges": [
     "**/*.md",
     "**/*.test.ts",
