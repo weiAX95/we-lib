@@ -29,7 +29,7 @@ importers:
   packages/we-ui:
     dependencies:
       '@we/hooks':
-        specifier: workspace:^
+        specifier: workspace:*
         version: link:../we-hooks
 
 packages:
