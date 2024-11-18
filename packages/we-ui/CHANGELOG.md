@@ -1,5 +1,21 @@
 # Change Log
 
+## 6.0.0
+
+### Major Changes
+
+- test2
+
+## 5.0.0
+
+### Major Changes
+
+- af3d000: changeset and lerna test
+
+### Minor Changes
+
+- 0de06b5: test
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
@@ -7,17 +23,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @we/ui
 
-
-
-
-
 ## [4.0.1](https://github.com/weiAX95/we-lib/compare/@we/ui@2.0.10...@we/ui@4.0.1) (2024-11-18)
 
 **Note:** Version bump only for package @we/ui
-
-
-
-
 
 ## [2.0.11](https://github.com/weiAX95/we-lib/compare/@we/ui@2.0.10...@we/ui@2.0.11) (2024-11-18)
 
