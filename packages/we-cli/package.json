@@ -3,22 +3,28 @@
   "version": "1.6.5",
   "main": "bin/index.js",
   "scripts": {
-    "start": "node bin/index.js",
+    "start": "node bin/cli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
-  "gitHead": "513bbe15cd584a9c6843d406f97dc1c85eba1b94",
-  "dependencies": {
-    "quicktype-core": "23.0.170"
-  },
   "devDependencies": {
+    "@darkobits/lolcatjs": "^3.1.3",
     "@types/lodash": "^4.17.13",
     "@types/node": "^22.9.0",
     "@types/node-fetch": "^2.6.12",
-    "inquirer": "^12.1.0",
-    "lodash": "^4.17.21"
+    "commander": "^12.1.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^8.2.5",
+    "lodash": "^4.17.21",
+    "ora": "^5.4.1",
+    "quicktype-core": "^23.0.170",
+    "shelljs": "0.8.5",
+    "yargs": "^17.7.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
   }
 }
