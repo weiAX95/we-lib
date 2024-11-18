@@ -1,6 +1,6 @@
 {
   "name": "@we/ui",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {},
   "gitHead": "513bbe15cd584a9c6843d406f97dc1c85eba1b94",
   "devDependencies": {
     "@chromatic-com/storybook": "3.2.2",
