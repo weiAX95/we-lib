@@ -13,7 +13,7 @@
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",
-    "publish": "lerna publish",
+    "publish": "changeset version && lerna version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
