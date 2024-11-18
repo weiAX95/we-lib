@@ -94,3 +94,4 @@ docs/dist
 # Temporary files
 tmp/
 temp/
+*storybook.log

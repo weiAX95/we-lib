@@ -3,11 +3,22 @@
   "version": "1.6.4",
   "main": "bin/index.js",
   "scripts": {
+    "start": "node bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
-  "gitHead": "f312d9073f62b0ee726bd45dfd8d994732dd22cb"
+  "gitHead": "f312d9073f62b0ee726bd45dfd8d994732dd22cb",
+  "dependencies": {
+    "quicktype-core": "23.0.170"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.9.0",
+    "@types/node-fetch": "^2.6.12",
+    "inquirer": "^12.1.0",
+    "lodash": "^4.17.21"
+  }
 }
