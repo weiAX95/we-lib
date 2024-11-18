@@ -1,6 +1,6 @@
 {
   "name": "@we/react-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "dotenv": "^16.4.5",
