@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.4](https://github.com/weiAX95/we-lib/compare/@we/hooks@1.6.5...@we/hooks@3.0.4) (2024-12-06)
+
+**Note:** Version bump only for package @we/hooks
+
+
+
+
+
 ## [3.0.3](https://github.com/weiAX95/we-lib/compare/@we/hooks@1.6.5...@we/hooks@3.0.3) (2024-12-06)
 
 **Note:** Version bump only for package @we/hooks

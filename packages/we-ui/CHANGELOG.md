@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.2](https://github.com/weiAX95/we-lib/compare/@we/ui@2.0.10...@we/ui@6.0.2) (2024-12-06)
+
+**Note:** Version bump only for package @we/ui
+
+
+
+
+
 ## [6.0.1](https://github.com/weiAX95/we-lib/compare/@we/ui@2.0.10...@we/ui@6.0.1) (2024-12-06)
 
 **Note:** Version bump only for package @we/ui
