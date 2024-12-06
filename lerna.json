@@ -6,7 +6,9 @@
       "registry": "http://localhost:4873",
       "ignoreScripts": true,
       "yes": true,
-      "access": "public"
+      "access": "public",
+      "npmClient": "pnpm",
+      "message": "[skip ci] chore(release): publish packages"
     },
     "version": {
       "conventionalCommits": true,
